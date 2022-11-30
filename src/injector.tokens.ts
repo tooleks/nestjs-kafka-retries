@@ -1,0 +1,1 @@
+export const KafkaClientProxy = 'KafkaClientProxy';
